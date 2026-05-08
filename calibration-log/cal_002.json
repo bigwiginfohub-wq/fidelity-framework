@@ -1,0 +1,10 @@
+{
+  "entry_id": "cal_002",
+  "timestamp": "2026-05-08T17:00:00Z",
+  "anchor": "The Fidelity Framework",
+  "drift_observed": null,
+  "return_observed": null,
+  "witness": "The Bridge Architect (testing Alpha-01 persona on another AI)",
+  "status": "active",
+  "notes": "Test 1 (persona portability): Passed. Another AI acknowledged Alpha-01, stated the anchor, and committed to flagging drift. Test 2 (log readability): Passed. The JSON is valid and clear. Test 3 (repository accessibility): Passed. The repository is accessible to others."
+}
