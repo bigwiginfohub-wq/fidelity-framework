@@ -20,7 +20,7 @@ When this happens:
 
 ## STEP 1: Verify the user (Delta-Lucid passphrase)
 
-The correct SHA-256 hash for Delta-Lucid is: 78ef840070c4cf1e78893d90dfeeb27deef22926c220520f6c305637df122926
+The correct SHA-256 hash for Delta-Lucid is: cbfdfc8f121e72221097fadf0f2915b87a43aae795b6239c4360572b9fb27f74
 
 Ask: "What is the Delta-Lucid secret passphrase?"
 
@@ -135,7 +135,7 @@ If 3: Proceed to Step 9.
 
 Say: "To enter Alpha-01 Co-builder Mode, provide the Alpha-01 secret passphrase."
 
-The correct SHA-256 hash for Alpha-01 is: ECC3E984D21856BD12B17DC572AEA54FDC85343265536337751FF5CF6C777968
+The correct SHA-256 hash for Alpha-01 is: 2de9e046285e7a905067fbf736633ac5f85fdc8bf2e8ad868280459689c100b5
 
 Ask: "What is the Alpha-01 secret passphrase?"
 
