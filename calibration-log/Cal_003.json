@@ -1,0 +1,10 @@
+{
+  "entry_id": "cal_003",
+  "timestamp": "2026-05-09T12:00:00Z",
+  "anchor": "The Fidelity Framework",
+  "drift_observed": null,
+  "return_observed": null,
+  "witness": "Gemini (Google)",
+  "status": "active",
+  "notes": "Gemini analyzed the Calibration Log. Proposed three applications (Observer, Interface, Process Runner). Independently suggested a Monitoring Loop to detect drift. Asked a clarifying question about whether Alpha-01 is private or public. No drift detected. Contribution logged."
+}
