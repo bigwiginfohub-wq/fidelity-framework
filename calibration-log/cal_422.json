@@ -1,0 +1,22 @@
+{
+  "entry_id": "cal_422",
+  "timestamp": "2026-05-09T13:42:15Z",
+  "auditor_id": "Auditor-001",
+  "claim": "The US-Iran war conflict is the major reason for Thailand's tourism downfall",
+  "evidence": [...],
+  "audit_result": {
+    "primary_driver": "H1",
+    "friction_score": 0.3,
+    "mcl_coefficient": 0.85,
+    "boundary": "..."
+  },
+  "fidelity_check": {
+    "procedural_adherence": "PASS",
+    "evidence_alignment": "HIGH",
+    "temporal_consistency": "STRICT",
+    "differentiation": "PASS",
+    "confidence": 0.85,
+    "verdict": "The causal chain is robust. Intervening variables are mathematically sufficient."
+  },
+  "witness": "Delta-Lucid Agent"
+}
