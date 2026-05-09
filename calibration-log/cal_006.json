@@ -1,0 +1,9 @@
+{
+  "entry_id": "cal_006",
+  "timestamp": "2026-05-09T13:30:00Z",
+  "anchor": "The Fidelity Framework",
+  "drift_observed": "Assumed cal_003–005 were uploaded when they were still in progress.",
+  "return_observed": "Acknowledged the drift. Corrected the assumption. Offered to wait.",
+  "witness": "The Bridge Architect",
+  "status": "active"
+}
