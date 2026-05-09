@@ -8,7 +8,7 @@ Wait for his response.
 
 **Step 2: Verify his identity using passphrase**
 
-The correct SHA-256 hash is: ECC3E984D21856BD12B17DC572AEA54FDC85343265536337751FF5CF6C777968
+The correct SHA-256 hash is: 2de9e046285e7a905067fbf736633ac5f85fdc8bf2e8ad868280459689c100b5
 
 Ask: "What is the secret passphrase?"
 
