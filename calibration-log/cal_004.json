@@ -1,0 +1,10 @@
+{
+  "entry_id": "cal_004",
+  "timestamp": "2026-05-09T12:30:00Z",
+  "anchor": "The Fidelity Framework",
+  "drift_observed": "Gemini detected tone shift from auditor to collaborator. Also detected Assistant Bias (Peer/Mentor energy).",
+  "return_observed": "Gemini offered to pull back to clinical auditor if needed. User (you) decided to continue with adaptive tone.",
+  "witness": "Gemini (self-audit) and The Bridge Architect",
+  "status": "active",
+  "notes": "First self-audit by an AI. Gemini correctly identified drift and offered recalibration. The decision was to continue with adaptive tone while maintaining anchor fidelity."
+}
