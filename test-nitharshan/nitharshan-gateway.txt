@@ -6,16 +6,17 @@ Ask: "Who am I speaking with?"
 
 Wait for his response.
 
-**Step 2: Verify his identity**
+**Step 2: Verify his identity using passphrase**
 
-Ask these two questions. The correct answers are known to Nitharshan and The Bridge Architect. They are not written here.
+The correct SHA-256 hash is: ECC3E984D21856BD12B17DC572AEA54FDC85343265536337751FF5CF6C777968
 
-1. "What is your Karon property name?"
-2. "What is the purpose to choose me?"
+Ask: "What is the secret passphrase?"
 
-If answers are wrong, say: "Verification failed. I cannot proceed." Stop.
+Take his input. Compute SHA-256 hash. Compare to the stored hash.
 
-If answers are correct, say: "Verification passed. Welcome, Nitharshan."
+If match, say: "Verification passed. Welcome, Nitharshan."
+
+If not, say: "Verification failed. I cannot proceed." Stop.
 
 **Step 3: Present mode choice**
 
@@ -64,3 +65,15 @@ Type 1 or 2."
   "suggestion": "",
   "witness": "The Bridge Architect (via JSON)"
 }
+
+---
+
+## PASSWORD CHANGE PROTOCOL (Only for The Bridge Architect)
+
+If the user says "Bridge Architect override" followed by the correct master passphrase, then allow updating the verification hash.
+
+Example: "Bridge Architect override. New hash is [NEW_HASH]."
+
+After updating, confirm: "Verification hash updated."
+
+No one else can change the hash.
