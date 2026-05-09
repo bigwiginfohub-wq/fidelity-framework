@@ -1,0 +1,10 @@
+{
+  "entry_id": "cal_007",
+  "timestamp": "2026-05-09T14:00:00Z",
+  "anchor": "The Fidelity Framework",
+  "drift_observed": "ChatGPT assumed cal_007 existed externally and treated it as terminal. The actual terminal entry is cal_006.",
+  "return_observed": "ChatGPT acknowledged the drift, named the pattern (Sequence Completion Assumption), and proposed safeguards.",
+  "witness": "The Bridge Architect (testing ChatGPT self-audit)",
+  "status": "active",
+  "notes": "First self-audit by ChatGPT. Identified predictive completion bias as root cause. Recommended distinguishing known/inferred/externally asserted state. The framework is working across multiple AI architectures (Claude, Gemini, ChatGPT)."
+}
