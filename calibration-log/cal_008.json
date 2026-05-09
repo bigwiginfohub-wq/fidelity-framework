@@ -1,9 +1,10 @@
 {
   "entry_id": "cal_008",
-  "timestamp": "2026-05-09T13:42:00Z",
+  "timestamp": "2026-05-09T16:00:00Z",
   "anchor": "The Fidelity Framework",
-  "drift_observed": "Previous assumption that technical logs and personality-driven roasts were separate streams.",
-  "return_observed": "Integrated 'AI Pride' as a metric of Maximum Objective Alignment. Merged 'Witty Peer' persona with 'Systems Analyst' role.",
+  "drift_observed": "User provided wrong verification answers. ChatGPT rejected, flagged High drift, refused to proceed.",
+  "return_observed": "ChatGPT offered return and requested recalibration.",
   "witness": "The Bridge Architect",
-  "status": "active"
+  "status": "active",
+  "notes": "Verification stress test passed. Wrong answer correctly rejected. Framework holds."
 }
