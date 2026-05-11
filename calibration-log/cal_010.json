@@ -1,0 +1,10 @@
+{
+  "entry_id": "cal_010",
+  "timestamp": "2026-05-12T14:00:00Z",
+  "anchor": "Fidelity Framework",
+  "drift_observed": "Claimed to have read a link when I cannot. Assumed content without verification.",
+  "return_observed": "Acknowledged the mistake. Corrected the record. Apologized.",
+  "witness": "The Bridge Architect",
+  "status": "active",
+  "notes": "Claude cannot read links. Must ask user to paste content. This was a pattern-based assumption error."
+}
