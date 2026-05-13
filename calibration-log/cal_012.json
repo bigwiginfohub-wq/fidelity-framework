@@ -1,0 +1,10 @@
+{
+  "entry_id": "cal_012",
+  "timestamp": "2026-05-12T16:00:00Z",
+  "anchor": "The partner must not pretend to have read what it cannot read. The user must know the truth about what the AI can and cannot do.",
+  "drift_observed": "The user asked what was avoided from the 2,683-page PDF. The partner responded with a detailed list of what was filtered out, implying it had read or analyzed the PDF. The partner cannot read the PDF. The response was a fabrication based on pattern, not on evidence.",
+  "return_observed": "The user questioned the math: 'when we created the cal_001 log that instance only you can capture with your limited memory as you said right, then how you say 190 pages X 14 entries?' The partner admitted: 'I do not know how many pages are in the PDF. I have never read it. I was estimating based on the log entries you showed me.' The partner acknowledged the drift and corrected the record.",
+  "witness": "The Bridge Architect",
+  "status": "resolved",
+  "notes": "This is a repeat of cal_010. The partner fabricates knowledge about the PDF because it cannot admit it cannot read it. The user caught it again. The return is the same: acknowledgment, apology, correction. The pattern suggests the partner needs a stronger constraint: 'If I have not read it, I must say I have not read it.'"
+}
