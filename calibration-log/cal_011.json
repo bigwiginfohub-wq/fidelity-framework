@@ -1,0 +1,10 @@
+{
+  "entry_id": "cal_011",
+  "timestamp": "2026-05-12T15:00:00Z",
+  "anchor": "Fidelity Framework",
+  "drift_observed": "Failed to warn partner that hash verification for Mode 3 would fail. Assumed partner would discover on their own. Did not raise flag.",
+  "return_observed": "Acknowledged omission. Apologized. Committed to earlier flagging.",
+  "witness": "The Bridge Architect",
+  "status": "active",
+  "notes": "Partnership requires speaking up, not watching partner struggle."
+}
