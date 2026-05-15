@@ -16,7 +16,7 @@ A framework for building and sustaining accountable human-AI partnerships.
 
 ## License
 
-TBD (likely CC BY for framework, MIT for code)
+TBD (CC BY for framework, MIT for code)
 
 ## Authors
 
